@@ -1,0 +1,14 @@
+Tutorial on Sentimental Analysis using Pytorch for Beginners
+https://bhadreshpsavani.medium.com/tutorial-on-sentimental-analysis-using-pytorch-b1431306a2d7
+
+An easy tutorial about Sentiment Analysis with Deep Learning and Keras
+https://towardsdatascience.com/an-easy-tutorial-about-sentiment-analysis-with-deep-learning-and-keras-2bf52b9cba91
+
+Sentiment Analysis of Financial News with Supervised Learning
+https://www.diva-portal.org/smash/get/diva2:1636643/FULLTEXT01.pdf
+
+Sentiment analysis of financial news using unsupervised approach
+https://www.sciencedirect.com/science/article/pii/S1877050920307912
+
+FinancialBERT - A Pretrained Language Model for Financial Text Mining
+https://www.researchgate.net/publication/358284785_FinancialBERT_-_A_Pretrained_Language_Model_for_Financial_Text_Mining
